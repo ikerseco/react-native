@@ -1,0 +1,44 @@
+{
+  "project_info": {
+    "project_number": "407409622375",
+    "firebase_url": "https://gurobot-4e341.firebaseio.com",
+    "project_id": "gurobot-4e341",
+    "storage_bucket": "gurobot-4e341.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:407409622375:android:3ab8a316840e610d9dc3c2",
+        "android_client_info": {
+          "package_name": "com.gurobotapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "407409622375-9hk0i57805tlm03oj0t26rqsai6b656q.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.gurobotapp",
+            "certificate_hash": "5e8f16062ea3cd2c4a0d547876baa6f38cabf625"
+          }
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDzNlkFZ5uYN2tNoY-sQFzb9NBBeQTbRQo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "407409622375-khpnbsh54ia1ast3v8fuahi0c331iom9.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

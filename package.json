@@ -1,0 +1,53 @@
+{
+  "name": "GuRobotApp",
+  "version": "0.0.1",
+  "private": true,
+  "scripts": {
+    "android": "react-native run-android",
+    "ios": "react-native run-ios",
+    "start": "react-native start",
+    "test": "jest",
+    "lint": "eslint ."
+  },
+  "dependencies": {
+    "@react-native-community/masked-view": "^0.1.7",
+    "@react-navigation/native": "^5.1.3",
+    "@react-navigation/stack": "^5.2.6",
+    "axios": "^0.19.2",
+    "firebase": "^7.14.2",
+    "native-base": "^2.13.8",
+    "react": "16.9.0",
+    "react-hook-form": "^5.6.3",
+    "react-native": "0.60.5",
+    "react-native-axis-pad": "^0.9.4",
+    "react-native-elements": "^1.2.7",
+    "react-native-firebase": "^5.6.0",
+    "react-native-gesture-handler": "^1.6.0",
+    "react-native-google-signin": "^2.1.1",
+    "react-native-image-picker": "^2.3.1",
+    "react-native-image-view": "^2.1.9",
+    "react-native-linear-gradient": "^2.5.6",
+    "react-native-loading-spinner-overlay": "^1.1.0",
+    "react-native-render-html": "^4.1.2",
+    "react-native-restart": "0.0.14",
+    "react-native-safe-area-context": "^0.7.3",
+    "react-native-screens": "^2.0.0-beta.9",
+    "react-native-snap-carousel": "^3.9.0",
+    "react-native-vector-icons": "^6.6.0",
+    "socket.io-client": "^2.3.0"
+  },
+  "devDependencies": {
+    "@babel/core": "7.6.4",
+    "@babel/runtime": "7.6.3",
+    "@react-native-community/eslint-config": "0.0.3",
+    "babel-jest": "24.9.0",
+    "eslint": "6.5.1",
+    "jest": "^25.1.0",
+    "jetifier": "^1.6.5",
+    "metro-react-native-babel-preset": "0.54.1",
+    "react-test-renderer": "16.9.0"
+  },
+  "jest": {
+    "preset": "react-native"
+  }
+}
